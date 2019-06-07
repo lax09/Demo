@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63" started-at="2019-06-03T15:59:28Z" finished-at="2019-06-03T15:59:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="63" started-at="2019-06-03T15:59:28Z" finished-at="2019-06-03T15:59:28Z">
+      <class name="com.qa.tests.AppTest">
+        <test-method status="PASS" signature="sum()[pri:0, instance:com.qa.tests.AppTest@7f9a81e8]" name="sum" duration-ms="19" started-at="2019-06-03T21:29:28Z" finished-at="2019-06-03T21:29:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- com.qa.tests.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
